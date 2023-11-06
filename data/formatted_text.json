@@ -1,0 +1,21 @@
+{
+    "textContent":"Cats are good pets, for they are clean and are not noisy.",
+    "classificationAnnotation":{
+        "displayName":"FirstClass",
+        "annotationResourceLabels":{
+            "aiplatform.googleapis.com/annotation_set_name":"1234"
+            }
+        },
+    "dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"training"}
+}
+
+{
+    "textContent":"More RVs were seen in the storage lot than at the campground.",
+    "classificationAnnotation":{
+        "displayName":"SecondClass",
+        "annotationResourceLabels":{
+            "aiplatform.googleapis.com/annotation_set_name":"1234"
+            }
+        },
+    "dataItemResourceLabels":{"aiplatform.googleapis.com/ml_use":"training"}
+}
